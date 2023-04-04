@@ -7,9 +7,9 @@
         "Black Amda",
         "multi-device"
     ],
-    "website": "https://amdaniwasa.com/",
+    "website": "www.kingsasmitha.com",
     "repository": "https://github.com/BlackAmda/QueenAmdi",
-    "logo": "https://amdaniwasa.com/assets/QAAppjson.gif",
+    "logo": "https://i.ibb.co/PtXDdPM/alive.jpg",
     "success_url": "https://dashboard.heroku.com/apps/",
     "env": {
         "HEROKU": {
