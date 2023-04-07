@@ -10,10 +10,10 @@
 | |\/| | | | | | __| |_____| | | |/ _ \ \ / / |/ __/ _ \
 | |  | | |_| | | |_| |_____| |_| |  __/\ V /| | (_|  __/
 |_|  |_|\__,_|_|\__|_|     |____/ \___| \_/ |_|\___\___|
-* @project_name Queen Amdi [WA Multi-device]
-* @author BlackAmda <https://github.com/BlackAmda>
+* @project_name Queen Amdi by ᴋɪɴɢ ꜱᴀꜱᴍɪᴛʜᴀ [WA Multi-device]
+* @author ᴋɪɴɢ ꜱᴀꜱᴍɪᴛʜᴀ <https://github.com/ᴋɪɴɢ_ꜱᴀꜱᴍɪᴛʜᴀ>
 * @description A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience
-* @link <https://github.com/BlackAmda/QueenAmdi>
+* @link <https://github.com/ᴋɪɴɢ_ꜱᴀꜱᴍɪᴛʜᴀ>
 * @version 4.0.7
 * @file  amdiSettings.js - QueenAmdi config var exports
 
